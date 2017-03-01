@@ -1,3 +1,3 @@
 # IFE
 ##Echarts-01
-[demo]()
+[demo](https://lauraxu3.github.io/IFE/Echarts/Echarts-01/firstEcharts.html)
